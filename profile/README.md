@@ -1,14 +1,5 @@
-# Cactus Compute
-**Cheaper, more sustainable AI compute — powered by idle mobile devices.**
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/cactus-compute/cactus-logo.png" alt="Cactus Compute Logo" width="200" />
-</p>
-
-## Overview
 Cactus Compute is on a mission to provide affordable, eco-friendly AI compute by harnessing the vast, untapped power of idle mobile devices. We connect **compute providers**—everyday smartphone owners—with **compute consumers**—teams, researchers, and businesses running ML workloads—resulting in lower costs, reduced carbon footprints, and a democratized AI ecosystem.
 
-- **White Paper:** [Read the full Cactus Compute White Paper »](#)  
 - **Demo:** [Watch our performance comparison against an NVIDIA A100 »](https://cactuscompute.com)
 
 ## Why Cactus Compute?
