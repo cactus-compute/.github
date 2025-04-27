@@ -1,49 +1,23 @@
-Cactus Compute is on a mission to provide affordable, eco-friendly AI compute by harnessing the vast, untapped power of idle mobile devices. We connect **compute providers**—everyday smartphone owners—with **compute consumers**—teams, researchers, and businesses running ML workloads—resulting in lower costs, reduced carbon footprints, and a democratized AI ecosystem.
+![Logo](assets/banner.jpg)
 
-- **Demo:** [Watch our performance comparison against an NVIDIA A100 »](https://cactuscompute.com)
+[![Website][website-shield]][website-url]
+[![Email][gmail-shield]][gmail-url]
+[![Discord][discord-shield]][discord-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+![YCombinator](https://img.shields.io/badge/YCombinator-F0652F?style=for-the-badge&logo=ycombinator&logoColor=white)
+![Oxford](https://img.shields.io/badge/Oxford_Seed_Fund-002147?style=for-the-badge&logo=oxford&logoColor=white)
+![Google](https://img.shields.io/badge/Google_For_Startups-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-## Why Cactus Compute?
-1. **Cost Savings:** Train and fine-tune ML models at a fraction of the cost of traditional cloud GPUs.  
-2. **Sustainability:** Mobile GPUs are more energy-efficient than data-center GPUs, drastically reducing carbon footprints.  
-3. **Accessibility:** We aim to empower smaller teams, individual researchers, and organizations with limited budgets to access robust AI compute.  
-4. **Simplicity:** The Cactus Library seamlessly integrates with popular ML frameworks (PyTorch, TensorFlow, JAX) without complex cluster configurations.  
-5. **Democratized Earnings:** Individuals earn passive income by securely sharing the idle capacity of their phones.
+[gmail-shield]: https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white
+[gmail-url]: founders@cactuscompute.com
 
-## How It Works
-1. **Install the Cactus App (Providers):** Individuals install the app on their phone, which automatically contributes GPU/CPU cycles when the device is idle and charging.  
-2. **Build with the Cactus Library (Consumers):** ML teams include the Cactus Library (`pip install cactus`) in their training scripts and simply point their training job to the Cactus network.  
-3. **Automated Distribution:** Our backend, **Cactus Tango**, splits and routes jobs to available mobile devices, ensuring load balancing, fault tolerance, and efficient data transfer.  
-4. **Optimized Execution:** **Cactus Ferra**, our proprietary kernel, accelerates deep learning workloads on mobile hardware, matching a single data-center GPU’s performance with a collection of consumer devices.
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&colorB=blue
+[linkedin-url]: https://www.linkedin.com/company/106281696
 
-## Privacy & Security
-- **Data Encryption:** End-to-end encryption in transit and at rest using TLS/SSL.  
-- **Ephemeral Storage:** No training data or model weights are written to disk; everything is processed in volatile RAM.  
-- **Randomized Task Allocation:** Individual devices receive small, randomized pieces of workloads, preventing reconstruction of any meaningful data.  
+[discord-shield]: https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
+[discord-url]: https://discord.gg/cBT6jcCF
 
-## Get Involved
-### For Compute Providers
-- **Sign up for Early Access:** [Join the waitlist »](https://cactuscompute.com)  
-- **Install the Cactus App:** Coming soon on [Google Play](https://cactuscompute.com)  
-- **Passive Earnings:** Earn money for every successful training epoch contributed.
+[website-shield]: https://img.shields.io/badge/Website-black?style=for-the-badge&logo=safari&logoColor=white
+[website-url]: https://cactuscompute.com
 
-### For Compute Consumers (ML Teams, Researchers, Businesses)
-- **Early Beta Access:** [Request an invite »](https://cactuscompute.com)  
-- **Documentation & Examples:** [Read the Docs »](#)  
-- **Pricing:** Pay only for *runtime* (actual computation), typically at 50% below cloud GPU costs.
-
-## Contributing
-We welcome open-source contributions to the **Cactus Library** (the Python-based interface for distributing ML workloads). Whether you’re improving documentation, optimizing kernels, or adding new features, your help is invaluable.
-
-1. Fork this repository.  
-2. Create a feature branch (`git checkout -b feature/awesome-improvement`).  
-3. Commit your changes (`git commit -m 'Add awesome feature'`).  
-4. Push to the branch (`git push origin feature/awesome-improvement`).  
-5. Open a Pull Request.  
-
-## Community & Support
-- **Slack/Discord:** [Coming soon](#) 
-- **Email:** henry@cactuscompute.com  
-- **Follow us on Twitter:** [@CactusCompute](#)
-
-## License
-- **Cactus Library:** Open source (Apache 2.0).  
+Cactus is a lightweight, high-performance framework for running AI models on mobile phones. cactus has unified and consistent APIs across React-Natiive, Android/Kotlin, Android/Java, iOS/Swift, iOS/Objective-C++, and Flutter/Dart. For now, leverages GGML backends to support any GGUF model already compatible with [![Llama.cpp](https://img.shields.io/badge/Llama.cpp-000000?style=flat&logo=github&logoColor=white)](https://github.com/ggerganov/llama.cpp), while we focus on broadly supporting every moblie app development platform, as well as upcoming features like MCP, phone tool use, thinking, prompt-enhancement, higher-level APIs. Contributors with any of the above experiences are welcome! However, feel free to submit cool example apps you built with cactus, issues or tests! Cactus Models coming a bit later.
