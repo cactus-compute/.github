@@ -19,7 +19,7 @@
 [website-shield]: https://img.shields.io/badge/Website-black?style=for-the-badge&logo=safari&logoColor=white
 [website-url]: https://cactuscompute.com
 
-As AI becomes increasingly embedded in our daily lives, AI for phones, wearables, medical devices, drones etc. will become personal. These models that use personal data for context should run on the devices without communicating with external servers whatsoever.  Cactus is a lightweight, high-performance framework for locally running AI models on mobile phones. Cactus has unified and consistent APIs across React-Natiive, Android/Kotlin, Android/Java, iOS/Swift, iOS/Objective-C++, and Flutter/Dart. For now, leverages GGML backends to support any GGUF model already compatible with [![Llama.cpp](https://img.shields.io/badge/Llama.cpp-000000?style=flat&logo=github&logoColor=white)](https://github.com/ggerganov/llama.cpp), while we focus on broadly supporting every moblie app development platform, as well as upcoming features like MCP, phone tool use, thinking, prompt-enhancement, higher-level APIs. You can [download the demo app](https://lnkd.in/dYGR54hn) we built with Cactus! We're committed to keeping our core technology open-source, fostering a community where developers can collaborate to push the boundaries of what's possible with on-device AI, [see our codebase](https://github.com/cactus-compute/cactus).
+As AI becomes increasingly embedded in our daily lives, AI for phones, wearables, medical devices, drones etc. will become personal. These models that use personal data for context should run on the devices without communicating with external servers whatsoever.  Cactus is a lightweight, high-performance framework for locally running AI models on mobile phones. Cactus has unified and consistent APIs across React-Natiive, Android/Kotlin, Android/Java, iOS/Swift, iOS/Objective-C++, and Flutter/Dart. For now, leverages GGML backends to support any GGUF model already compatible with [![Llama.cpp](https://img.shields.io/badge/Llama.cpp-000000?style=flat&logo=github&logoColor=white)](https://github.com/ggerganov/llama.cpp), while we focus on broadly supporting every moblie app development platform, as well as upcoming features like MCP, phone tool use, thinking, prompt-enhancement, higher-level APIs. We're committed to keeping our core technology open-source, fostering a community where developers can collaborate to push the boundaries of what's possible with on-device AI.
 
 ## Team
 
@@ -38,16 +38,15 @@ As AI becomes increasingly embedded in our daily lives, AI for phones, wearables
   </tr>
 </table>
 
-## Watch Our Demo
-
-🎬 **See Cactus in Action!** 
-
-Check out our [offline AI demo video](https://www.linkedin.com/posts/roman-shemet_take-your-vibe-coding-to-the-skies-activity-7318967198880784384-6CWm/) showing how you can use AI anywhere - even in airplane mode or on the subway!
+## 🎬 See Cactus in Action!
 
 The video demonstrates how Cactus lets you:
 - Run powerful AI models completely offline
 - Build apps that don't need cloud connections
 - Create seamless AI experiences that work anywhere
 
-[![Watch the demo](https://img.shields.io/badge/Watch_Demo-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/roman-shemet_take-your-vibe-coding-to-the-skies-activity-7318967198880784384-6CWm/)
+[![Watch the demo](https://img.shields.io/badge/Watch_Demo-grey?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/roman-shemet_take-your-vibe-coding-to-the-skies-activity-7318967198880784384-6CWm/)
+[![GitHub Repo](https://img.shields.io/badge/View_Codebase-grey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cactus-compute/cactus)
+[![Download App](https://img.shields.io/badge/Download_iOS_App-grey?style=for-the-badge&logo=apple&logoColor=white)](https://lnkd.in/dYGR54hn)
+[![Download App](https://img.shields.io/badge/Download_Android_App-grey?style=for-the-badge&logo=android&logoColor=white)](https://lnkd.in/dYGR54hn)
 
