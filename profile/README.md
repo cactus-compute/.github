@@ -1,8 +1,7 @@
-![Logo](assets/banner.jpg)
+![Logo](../assets/banner.jpg)
 
 [![Website][website-shield]][website-url]
 [![Email][gmail-shield]][gmail-url]
-[![Discord][discord-shield]][discord-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 ![YCombinator](https://img.shields.io/badge/YCombinator-F0652F?style=for-the-badge&logo=ycombinator&logoColor=white)
 ![Oxford](https://img.shields.io/badge/Oxford_Seed_Fund-002147?style=for-the-badge&logo=oxford&logoColor=white)
@@ -20,4 +19,22 @@
 [website-shield]: https://img.shields.io/badge/Website-black?style=for-the-badge&logo=safari&logoColor=white
 [website-url]: https://cactuscompute.com
 
-Cactus is a lightweight, high-performance framework for running AI models on mobile phones. cactus has unified and consistent APIs across React-Natiive, Android/Kotlin, Android/Java, iOS/Swift, iOS/Objective-C++, and Flutter/Dart. For now, leverages GGML backends to support any GGUF model already compatible with [![Llama.cpp](https://img.shields.io/badge/Llama.cpp-000000?style=flat&logo=github&logoColor=white)](https://github.com/ggerganov/llama.cpp), while we focus on broadly supporting every moblie app development platform, as well as upcoming features like MCP, phone tool use, thinking, prompt-enhancement, higher-level APIs. Contributors with any of the above experiences are welcome! However, feel free to submit cool example apps you built with cactus, issues or tests! Cactus Models coming a bit later.
+As AI becomes increasingly embedded in our daily lives, AI for phones, wearables, medical devices, drones etc. will become personal. These models that use personal data for context should run on the devices without communicating with external servers whatsoever.  Cactus is a lightweight, high-performance framework for locally running AI models on mobile phones. Cactus has unified and consistent APIs across React-Natiive, Android/Kotlin, Android/Java, iOS/Swift, iOS/Objective-C++, and Flutter/Dart. For now, leverages GGML backends to support any GGUF model already compatible with [![Llama.cpp](https://img.shields.io/badge/Llama.cpp-000000?style=flat&logo=github&logoColor=white)](https://github.com/ggerganov/llama.cpp), while we focus on broadly supporting every moblie app development platform, as well as upcoming features like MCP, phone tool use, thinking, prompt-enhancement, higher-level APIs. You can [download a demo](https://lnkd.in/dYGR54hn) app we built with Cactus! We're committed to keeping our core technology open-source, fostering a community where developers can collaborate to push the boundaries of what's possible with on-device AI.
+
+## Team
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>Roman Shemet - Founder + CEO</h3>
+      <img src="../assets/roman.jpeg" width="250" alt="Roman" style="border-radius: 50%; object-fit: cover;">
+      <p>Studied at UCL, then an MSc in Financial Economics at the University of Oxford. He worked in investments at Julius Brayer, then quantitative researcher at DaVinci Derivatives, leading to senior technical product manager at Koalafi. Roman historically worked at firms with strong privacy concerns that priortize local, private, and offline computing. These motivated the passion for makes artificial intelligence truly accessible and private on every day mobile devices without external APIs.</p>
+    </td>
+    <td width="50%" align="center">
+      <h3>Henry Ndubuaku - Founder + CTO</h3>
+      <img src="../assets/henry.jpeg" width="250" alt="Henry" style="border-radius: 50%; object-fit: cover;">
+      <p>Studied Electrical Engineering and Computing, then a MSc in Artificial Intelligence from the Queen Mary University of London under Prof. Matthew Purver (worked on early chat systems at Stanford). Henry designed vision models for Maxar Defence satelitte imagery at WISDM, and on-device video model reasearch at Deep Render. He contributes to open-source like Google JAX and Llama.cpp, and has authoured a couple open-source projects around GPU programming and Edge AI.</p>
+    </td>
+  </tr>
+</table>
+
