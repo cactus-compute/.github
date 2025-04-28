@@ -33,14 +33,14 @@ As AI becomes increasingly embedded in our daily lives, AI for phones, wearables
     <td width="50%" align="center">
       <h3>Henry Ndubuaku - Founder + CTO</h3>
       <img src="../assets/henry.jpeg" width="250" alt="Henry" style="border-radius: 50%; object-fit: cover;">
-      <p>Studied Electrical Engineering and Computing and received an MSc in Artificial Intelligence from QMUL under Prof. Matthew Purver. Henry designed satellite vision models for Maxar Defence, and led on-device video model reasearch at Deep Render. He is a contributor to Google JAX and Llama.cpp, and has authoured open-source projects around GPU programming and Edge AI.</p>
+      <p>Studied Electrical Engineering and Computing, then an MSc in Artificial Intelligence from QMUL under Prof. Matthew Purver. Henry designed Maxar Defence satellite vision models at WISDM, and conducted on-device model reasearch at Deep Render. He contributes to Google JAX and Llama.cpp, and authoured open-source projects around GPU programming and Edge AI.</p>
     </td>
   </tr>
 </table>
 
-## 🎬 See Cactus in Action!
+## See Cactus in Action!
 
-The video demonstrates how Cactus lets you:
+The apps demonstrate how Cactus lets you:
 - Run powerful AI models completely offline
 - Build apps that don't need cloud connections
 - Create seamless AI experiences that work anywhere
