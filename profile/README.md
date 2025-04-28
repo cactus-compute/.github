@@ -19,7 +19,7 @@
 [website-shield]: https://img.shields.io/badge/Website-black?style=for-the-badge&logo=safari&logoColor=white
 [website-url]: https://cactuscompute.com
 
-As AI becomes increasingly embedded in our daily lives, AI for phones, wearables, medical devices, drones etc. will become personal. These models that use personal data for context should run on the devices without communicating with external servers whatsoever.  Cactus is a lightweight, high-performance framework for locally running AI models on mobile phones. Cactus has unified and consistent APIs across React-Natiive, Android/Kotlin, Android/Java, iOS/Swift, iOS/Objective-C++, and Flutter/Dart. We also have upcoming features like MCP, phone tool use, thinking, prompt-enhancement, higher-level APIs. We're committed to keeping our core technology open-source, fostering a community where developers can collaborate to push the boundaries of what's possible with on-device AI.
+As AI becomes increasingly embedded in our daily lives, AI for phones, wearables, medical devices, drones etc. will become personal. These models that use personal data for context should run on the devices without communicating with external servers whatsoever. Cactus is a lightweight, high-performance framework for locally running AI models on mobile phones. Cactus has unified and consistent APIs across React-Natiive, Android/Kotlin, Android/Java, iOS/Swift, iOS/Objective-C++, and Flutter/Dart. We also have upcoming features like MCP, phone tool use, thinking, prompt-enhancement, higher-level APIs. We're committed to keeping our core technology open-source, fostering a community where developers can collaborate to push the boundaries of what's possible with on-device AI.
 
 ## Team
 
@@ -33,7 +33,7 @@ As AI becomes increasingly embedded in our daily lives, AI for phones, wearables
     <td width="50%" align="center">
       <h3>Henry Ndubuaku - Founder + CTO</h3>
       <img src="../assets/henry.jpeg" width="250" alt="Henry" style="border-radius: 50%; object-fit: cover;">
-      <p>Studied Electrical Engineering and Computing, then an MSc in Artificial Intelligence from QMUL under Prof. Matthew Purver. Henry researched Maxar satellite vision models at WISDM, and on-device models at Deep Render. He contributes to Google JAX and Llama.cpp, and authoured open-source projects around GPU programming and Edge AI.</p>
+      <p>Studied Electrical Engineering and Computing, then an MSc in Artificial Intelligence from QMUL under Prof. Matthew Purver. Henry researched Maxar satellite vision models at WISDM, and on-device models at Deep Render. He contributes to Google JAX and Llama.cpp, and wrote open-source projects on GPU programming and Edge AI.</p>
     </td>
   </tr>
 </table>
