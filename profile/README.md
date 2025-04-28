@@ -15,7 +15,25 @@
 [discord-shield]: https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
 [discord-url]: https://discord.gg/cBT6jcCF
 
-As AI becomes increasingly embedded in our daily lives, AI for phones, wearables, medical devices, drones etc. will become personal. These models that use personal data for context should run on the devices without communicating with external servers whatsoever. Cactus is a lightweight, high-performance framework for locally running AI models on mobile phones. Cactus has unified and consistent APIs across React-Natiive, Android/Kotlin, Android/Java, iOS/Swift, iOS/Objective-C++, and Flutter/Dart. We also have upcoming features like MCP, phone tool use, thinking, prompt-enhancement, higher-level APIs. We're committed to keeping our core technology open-source, fostering a community where developers can collaborate to push the boundaries of what's possible with on-device AI.
+As AI becomes increasingly embedded in our daily lives, AI for phones, wearables, medical devices, cameras, drones etc. will become personal. These models that use personal data for context should run on the devices without communicating with external servers whatsoever. Cactus is a lightweight, high-performance framework for locally running AI models on mobile devices. 
+
+Cactus has unified and consistent APIs across:
+
+- React/JS/TS for cross-platform apps 
+- Flutter/Dart for cross-platform apps 
+- Kotlin/Java for Android 
+- Swift/Objective-C for iOS
+- C/C++ for core builds 
+
+We are redefigning on-device AI with the following features:
+
+- Model Context Protocol (MCP)
+- Private phone tool use (camera control, gallery search, mail handling etc.)
+- Multi-agent support and workflows on-device 
+- Thinking mode & on-device reasoning 
+- Hardware-aware models (both SOTA ports and foundation models) 
+
+We're committed to keeping our core technology open-source, fostering a community where developers can collaborate to push the boundaries of what's possible with on-device AI.
 
 ## Team
 
