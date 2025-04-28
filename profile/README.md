@@ -33,7 +33,7 @@ As AI becomes increasingly embedded in our daily lives, AI for phones, wearables
     <td width="50%" align="center">
       <h3>Henry Ndubuaku - Founder + CTO</h3>
       <img src="../assets/henry.jpeg" width="250" alt="Henry" style="border-radius: 50%; object-fit: cover;">
-      <p>Studied Electrical Engineering and Computing, then an MSc in Artificial Intelligence from QMUL under Prof. Matthew Purver. Henry designed Maxar Defence satellite vision models at WISDM, and conducted on-device model reasearch at Deep Render. He contributes to Google JAX and Llama.cpp, and authoured open-source projects around GPU programming and Edge AI.</p>
+      <p>Studied Electrical Engineering and Computing, then an MSc in Artificial Intelligence from QMUL under Prof. Matthew Purver. Henry researched Maxar satellite vision models at WISDM, and on-device models at Deep Render. He contributes to Google JAX and Llama.cpp, and authoured open-source projects around GPU programming and Edge AI.</p>
     </td>
   </tr>
 </table>
