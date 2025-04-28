@@ -45,7 +45,6 @@ The apps demonstrate how Cactus lets you:
 - Build apps that don't need cloud connections
 - Create seamless AI experiences that work anywhere
 
-[![Watch the demo](https://img.shields.io/badge/Watch_Demo-grey?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/roman-shemet_take-your-vibe-coding-to-the-skies-activity-7318967198880784384-6CWm/)
 [![GitHub Repo](https://img.shields.io/badge/View_Codebase-grey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cactus-compute/cactus)
 [![Download App](https://img.shields.io/badge/Download_iOS_App-grey?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/gb/app/cactus-chat/id6744444212)
 [![Download App](https://img.shields.io/badge/Download_Android_App-grey?style=for-the-badge&logo=android&logoColor=white)](https://lnkd.in/dYGR54hn)
