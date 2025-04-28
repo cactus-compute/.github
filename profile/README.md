@@ -64,3 +64,11 @@ The apps demonstrate how Cactus lets you:
 [![Download App](https://img.shields.io/badge/Download_Android_App-grey?style=for-the-badge&logo=android&logoColor=white)](https://lnkd.in/dYGR54hn)
 [![Book a Meeting](https://img.shields.io/badge/Book_a_Meeting-grey?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/d/cm37-kxm-pdq/cactus-roman-henry?month=2025-04)
 
+## We're growing fast!
+
+Click the image below to see our interactive star history chart:
+
+<a href="https://star-history.com/#cactus-compute/cactus&Date">
+  <img src="https://api.star-history.com/svg?repos=cactus-compute/cactus&type=Date" alt="GitHub Star History Chart" width="500" />
+</a>
+
