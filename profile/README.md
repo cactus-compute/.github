@@ -41,12 +41,12 @@ We're committed to keeping our core technology open-source, fostering a communit
 <table>
   <tr>
     <td width="50%" align="center">
-      <h3>Roman Shemet (Founder/CEO)</h3>
+      <h3>Roman Shemet</h3>
       <img src="../assets/roman.jpeg" width="250" alt="Roman" style="border-radius: 50%; object-fit: cover;">
       <p>Experienced Product leader and a former quantitative researcher. Holds an MSc in Financial Economics from the University of Oxford, and previously worked in equity investing and algorithmic trading. A first-hand experience of the importance of data security has motivated the desire to enable on-device, private, and local AI.</p>
     </td>
     <td width="50%" align="center">
-      <h3>Henry Ndubuaku (Founder/CTO)</h3>
+      <h3>Henry Ndubuaku</h3>
       <img src="../assets/henry.jpeg" width="250" alt="Henry" style="border-radius: 50%; object-fit: cover;">
       <p>Studied Electrical Engineering and Computing, then an MSc in Artificial Intelligence from QMUL under Prof. Matthew Purver. Henry researched Maxar satellite vision models at WISDM, and on-device models at Deep Render. He contributes to Google JAX and Llama.cpp, and wrote open-source projects on GPU programming and Edge AI.</p>
     </td>
