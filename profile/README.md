@@ -1,6 +1,5 @@
 ![Logo](../assets/banner.jpg)
 
-[![Website][website-shield]][website-url]
 [![Email][gmail-shield]][gmail-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 ![YCombinator](https://img.shields.io/badge/YCombinator-F0652F?style=for-the-badge&logo=ycombinator&logoColor=white)
