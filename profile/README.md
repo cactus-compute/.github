@@ -1,5 +1,6 @@
 ![Logo](../assets/banner.jpg)
 
+[![GitHub Repo](https://img.shields.io/badge/Codebase-grey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cactus-compute/cactus)
 [![Email][gmail-shield]][gmail-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 ![YCombinator](https://img.shields.io/badge/Combinator-F0652F?style=for-the-badge&logo=ycombinator&logoColor=white)
@@ -59,7 +60,6 @@ The apps demonstrate how Cactus lets you:
 - Build apps that don't need cloud connections
 - Create seamless AI experiences that work anywhere
 
-[![GitHub Repo](https://img.shields.io/badge/View_Codebase-grey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cactus-compute/cactus)
 [![Download App](https://img.shields.io/badge/Download_iOS_App-grey?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/gb/app/cactus-chat/id6744444212)
 [![Download App](https://img.shields.io/badge/Download_Android_App-grey?style=for-the-badge&logo=android&logoColor=white)](https://lnkd.in/dYGR54hn)
 [![Book a Meeting](https://img.shields.io/badge/Book_a_Meeting-grey?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/d/cm37-kxm-pdq/cactus-roman-henry?month=2025-04)
