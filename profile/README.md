@@ -15,9 +15,6 @@
 [discord-shield]: https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
 [discord-url]: https://discord.gg/cBT6jcCF
 
-[website-shield]: https://img.shields.io/badge/Website-black?style=for-the-badge&logo=safari&logoColor=white
-[website-url]: https://cactuscompute.com
-
 As AI becomes increasingly embedded in our daily lives, AI for phones, wearables, medical devices, drones etc. will become personal. These models that use personal data for context should run on the devices without communicating with external servers whatsoever. Cactus is a lightweight, high-performance framework for locally running AI models on mobile phones. Cactus has unified and consistent APIs across React-Natiive, Android/Kotlin, Android/Java, iOS/Swift, iOS/Objective-C++, and Flutter/Dart. We also have upcoming features like MCP, phone tool use, thinking, prompt-enhancement, higher-level APIs. We're committed to keeping our core technology open-source, fostering a community where developers can collaborate to push the boundaries of what's possible with on-device AI.
 
 ## Team
@@ -47,4 +44,5 @@ The apps demonstrate how Cactus lets you:
 [![GitHub Repo](https://img.shields.io/badge/View_Codebase-grey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cactus-compute/cactus)
 [![Download App](https://img.shields.io/badge/Download_iOS_App-grey?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/gb/app/cactus-chat/id6744444212)
 [![Download App](https://img.shields.io/badge/Download_Android_App-grey?style=for-the-badge&logo=android&logoColor=white)](https://lnkd.in/dYGR54hn)
+[![Book a Meeting](https://img.shields.io/badge/Book_a_Meeting-grey?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/d/cm37-kxm-pdq/cactus-roman-henry?month=2025-04)
 
