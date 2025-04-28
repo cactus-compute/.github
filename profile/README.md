@@ -1,22 +1,28 @@
 ![Logo](../assets/banner.jpg)
 
+## Connect with us
 [![GitHub Repo](https://img.shields.io/badge/Codebase-grey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cactus-compute/cactus)
 [![Email][gmail-shield]][gmail-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Discord][discord-shield]][discord-url]
+
+## Backed by
 ![YCombinator](https://img.shields.io/badge/Combinator-F0652F?style=for-the-badge&logo=ycombinator&logoColor=white)
 ![Oxford](https://img.shields.io/badge/Oxford_Seed_Fund-002147?style=for-the-badge&logo=oxford&logoColor=white)
 ![Google](https://img.shields.io/badge/Google_For_Startups-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 [gmail-shield]: https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white
-[gmail-url]: founders@cactuscompute.com
+[gmail-url]: mailto:founders@cactuscompute.com
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&colorB=blue
 [linkedin-url]: https://www.linkedin.com/company/106281696
 
 [discord-shield]: https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
-[discord-url]: https://discord.gg/cBT6jcCF
+[discord-url]: https://discord.gg/nRGfRMDu
 
-As AI becomes increasingly embedded in our daily lives, AI for phones, wearables, medical devices, cameras, drones etc. will become personal. These models that use personal data for context should run on the devices without communicating with external servers whatsoever. Cactus is a lightweight, high-performance framework for locally running AI models on mobile devices. 
+## About Cactus
+
+As AI becomes increasingly embedded in our daily lives, AI for phones, wearables, medical devices, cameras, drones will become personal. The models that use private data for context should run on-device without communicating with external servers. Cactus is a lightweight, high-performance framework for running AI models locally on mobile devices.
 
 Cactus has unified and consistent APIs across:
 
