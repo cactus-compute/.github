@@ -28,12 +28,12 @@ As AI becomes increasingly embedded in our daily lives, AI for phones, wearables
     <td width="50%" align="center">
       <h3>Roman Shemet - Founder + CEO</h3>
       <img src="../assets/roman.jpeg" width="250" alt="Roman" style="border-radius: 50%; object-fit: cover;">
-      <p>Studied at UCL, then an MSc in Financial Economics at the University of Oxford. He worked in investments at Julius Brayer, then quantitative researcher at DaVinci Derivatives, leading to senior technical product manager at Koalafi. Roman historically worked at firms with strong privacy concerns that priortize local, private, and offline computing. These motivated the passion for makes artificial intelligence truly accessible and private on every day mobile devices without external APIs.</p>
+      <p>Experienced Product leader and a former quantitative researcher. Holds an MSc in Financial Economics from the University of Oxford, and previously worked in equity investing and algorithmic trading. A first-hand experience of the importance of data security has motivated the desire to enable on-device, private, and local AI.</p>
     </td>
     <td width="50%" align="center">
       <h3>Henry Ndubuaku - Founder + CTO</h3>
       <img src="../assets/henry.jpeg" width="250" alt="Henry" style="border-radius: 50%; object-fit: cover;">
-      <p>Studied Electrical Engineering and Computing, then a MSc in Artificial Intelligence from the Queen Mary University of London under Prof. Matthew Purver (worked on early chat systems at Stanford). Henry designed vision models for Maxar Defence satelitte imagery at WISDM, and on-device video model reasearch at Deep Render. He contributes to open-source like Google JAX and Llama.cpp, and has authoured a couple open-source projects around GPU programming and Edge AI.</p>
+      <p>Studied Electrical Engineering and Computing and received an MSc in Artificial Intelligence from QMUL under Prof. Matthew Purver. Henry designed satellite vision models for Maxar Defence, and led on-device video model reasearch at Deep Render. He is a contributor to Google JAX and Llama.cpp, and has authoured open-source projects around GPU programming and Edge AI.</p>
     </td>
   </tr>
 </table>
