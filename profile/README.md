@@ -73,5 +73,5 @@ The apps demonstrate how Cactus lets you:
 ## We are growing!
 
 <a href="https://www.star-history.com/#cactus-compute/cactus&Date">
-  <img src="https://api.star-history.com/svg?repos=cactus-compute/cactus&type=Timeline" alt="Star History Chart" width="400" />
+  <img src="https://api.star-history.com/svg?repos=cactus-compute/cactus&type=Date" alt="Star History Chart" width="400" />
 </a>
