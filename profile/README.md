@@ -32,7 +32,7 @@ Cactus has unified and consistent APIs across:
 - Swift/Objective-C for iOS
 - C/C++ for core builds 
 
-We are redefigning on-device AI with the following features:
+We are redefining on-device AI with the following features:
 
 - Model Context Protocol (MCP)
 - Private phone tool use (camera control, gallery search, mail handling etc.)
