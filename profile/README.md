@@ -28,9 +28,8 @@ Cactus has unified and consistent APIs across:
 
 - React/JS/TS for cross-platform apps 
 - Flutter/Dart for cross-platform apps 
-- Kotlin/Java for Android 
-- Swift/Objective-C for iOS
-- C/C++ for core builds 
+- C/C++ for core builds
+- (Swift & Kotlin in dev)
 
 We are redefining on-device AI with the following features:
 
