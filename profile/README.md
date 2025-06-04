@@ -7,7 +7,6 @@
 [![Discord][discord-shield]][discord-url]
 
 ## Backed by
-![YCombinator](https://img.shields.io/badge/Combinator-F0652F?style=for-the-badge&logo=ycombinator&logoColor=white)
 ![Oxford](https://img.shields.io/badge/Oxford_Seed_Fund-002147?style=for-the-badge&logo=oxford&logoColor=white)
 ![Google](https://img.shields.io/badge/Google_For_Startups-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
