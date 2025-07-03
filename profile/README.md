@@ -53,7 +53,7 @@ We're committed to keeping our core technology open-source, fostering a communit
     <td width="50%" align="center">
       <h3>Henry Ndubuaku</h3>
       <img src="../assets/henry.jpeg" width="250" alt="Henry" style="border-radius: 50%; object-fit: cover;">
-      <p>Studied Electrical and Computer Engineering, then an MSc in Artificial Intelligence from QMUL under Prof. Matthew Purver. Henry researched Maxar satellite perception models at WISDM, then edge mobile-device models at Deep Render. He contributes to and authored many open-source projects on GPU programming and Edge AI.</p>
+      <p>Studied EECS, then an MSc in Artificial Intelligence from QMUL under Prof. Matthew Purver. Henry researched Maxar satellite perception models at WISDM, then edge mobile-device models at Deep Render. He contributes to and authored many open-source projects on GPU programming and Edge AI.</p>
     </td>
   </tr>
 </table>
