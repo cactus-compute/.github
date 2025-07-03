@@ -68,9 +68,3 @@ The apps demonstrate how Cactus lets you:
 [![Download App](https://img.shields.io/badge/Download_iOS_App-grey?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/gb/app/cactus-chat/id6744444212)
 [![Download App](https://img.shields.io/badge/Download_Android_App-grey?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.rshemetsubuser.myapp&pcampaignid=web_share)
 [![Book a Meeting](https://img.shields.io/badge/Book_a_Meeting-grey?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/d/cm37-kxm-pdq/cactus-roman-henry?month=2025-04)
-
-## We are growing!
-
-<a href="https://www.star-history.com/#cactus-compute/cactus&Date">
-  <img src="https://api.star-history.com/svg?repos=cactus-compute/cactus&type=Date" alt="Star History Chart" width="400" />
-</a>
