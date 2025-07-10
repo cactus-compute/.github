@@ -60,7 +60,7 @@ We're committed to keeping our core technology open-source, fostering a communit
 
 ## See Cactus in Action!
 
-The apps demonstrate how Cactus lets you:
+The demo apps show how Cactus lets you:
 - Run powerful AI models completely offline
 - Build apps that don't need cloud connections
 - Create seamless AI experiences that work anywhere
