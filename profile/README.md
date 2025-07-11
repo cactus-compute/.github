@@ -41,23 +41,6 @@ We are redefining on-device AI with the following features:
 
 We're committed to keeping our core technology open-source, fostering a community where developers can collaborate to push the boundaries of what's possible with on-device AI.
 
-## Team
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <h3>Roman Shemet</h3>
-      <img src="../assets/roman.jpeg" width="250" alt="Roman" style="border-radius: 50%; object-fit: cover;">
-      <p>Experienced Product leader and a former quantitative researcher. Holds an MSc in Financial Economics from the University of Oxford, and previously worked in equity investing and algorithmic trading. A first-hand experience of the importance of data security has motivated the desire to enable on-device, private, and local AI.</p>
-    </td>
-    <td width="50%" align="center">
-      <h3>Henry Ndubuaku</h3>
-      <img src="../assets/henry.jpeg" width="250" alt="Henry" style="border-radius: 50%; object-fit: cover;">
-      <p>Studied EECS, then an MSc in Artificial Intelligence from QMUL under Prof. Matthew Purver. Henry researched Maxar satellite perception models at WISDM, then edge mobile-device models at Deep Render. He contributes to and authored many open-source projects on GPU programming and Edge AI.</p>
-    </td>
-  </tr>
-</table>
-
 ## See Cactus in Action!
 
 The demo apps show how Cactus lets you:
