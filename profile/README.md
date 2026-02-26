@@ -1,3 +1,3 @@
 ![Logo](../assets/banner.jpg)
 
-(website)[https://cactuscompute.com]
+[website](https://cactuscompute.com)
