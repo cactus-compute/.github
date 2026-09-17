@@ -1,1 +1,1 @@
-![Cactus: foundation model and inference for tiny devices](../assets/cactus.png)
+![Cactus: automation foundation models for tiny devices](../assets/org-card.svg)
